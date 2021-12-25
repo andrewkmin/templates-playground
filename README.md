@@ -7,6 +7,7 @@ buncha templates to play around with
 - nextjs-starter: next + chakra, clean. nextjs-starter.dingran.me
 - nextjs-express: nextjs + express for routing
 - nextplate: nextjs + vanilla react boilerplate. https://github.com/hauptrolle/nextplate
+- nextjs + tailwind: https://github.com/timlrx/tailwind-nextjs-starter-blog 
 
 component templates
 - https://choc-ui.tech/
